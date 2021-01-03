@@ -1,0 +1,265 @@
+{
+  "count": 1,
+  "next": null,
+  "next_link": null,
+  "previous": null,
+  "previous_link": null,
+  "results": [
+    {
+      "id": 15836,
+      "url": "/api/v1/roles/15836/",
+      "related": {
+        "content_type": "/api/v1/content_types/11/",
+        "dependencies": "/api/v1/roles/15836/dependencies/",
+        "imports": "/api/v1/roles/15836/imports/"
+      },
+      "summary_fields": {
+        "content_type": { "id": 11, "name": "role", "description": "Role" },
+        "dependencies": [],
+        "namespace": {
+          "id": 128,
+          "name": "geerlingguy",
+          "avatar_url": "https://avatars1.githubusercontent.com/u/481677?v=4",
+          "location": "St. Louis, MO",
+          "company": "Midwestern Mac, LLC",
+          "email": null,
+          "html_url": "https://www.jeffgeerling.com",
+          "is_vendor": false
+        },
+        "platforms": [
+          { "name": "Debian", "release": "buster" },
+          { "name": "Debian", "release": "stretch" },
+          { "name": "EL", "release": "7" },
+          { "name": "EL", "release": "8" },
+          { "name": "Fedora", "release": "16" },
+          { "name": "Fedora", "release": "17" },
+          { "name": "Fedora", "release": "18" },
+          { "name": "Fedora", "release": "19" },
+          { "name": "Fedora", "release": "20" },
+          { "name": "Fedora", "release": "21" },
+          { "name": "Fedora", "release": "22" },
+          { "name": "Fedora", "release": "23" },
+          { "name": "Fedora", "release": "24" },
+          { "name": "Fedora", "release": "25" },
+          { "name": "Fedora", "release": "26" },
+          { "name": "Fedora", "release": "27" },
+          { "name": "Fedora", "release": "28" },
+          { "name": "Fedora", "release": "29" },
+          { "name": "Fedora", "release": "30" },
+          { "name": "Fedora", "release": "31" },
+          { "name": "Fedora", "release": "32" },
+          { "name": "Ubuntu", "release": "bionic" },
+          { "name": "Ubuntu", "release": "focal" },
+          { "name": "Ubuntu", "release": "xenial" }
+        ],
+        "provider_namespace": { "id": 126, "name": "geerlingguy" },
+        "repository": {
+          "id": 43280,
+          "name": "docker",
+          "original_name": "ansible-role-docker",
+          "stargazers_count": 781,
+          "watchers_count": 25,
+          "forks_count": 499,
+          "open_issues_count": 20,
+          "travis_status_url": "",
+          "travis_build_url": "",
+          "format": "role",
+          "deprecated": false,
+          "community_score": 4.72122302158273,
+          "quality_score": 5.0,
+          "community_survey_count": 33
+        },
+        "tags": [
+          "compose",
+          "containers",
+          "docker",
+          "orchestration",
+          "server",
+          "system",
+          "web"
+        ],
+        "versions": [
+          {
+            "id": 144007,
+            "name": "3.0.0",
+            "release_date": "2020-12-27T15:24:32Z"
+          },
+          {
+            "id": 137121,
+            "name": "2.9.0",
+            "release_date": "2020-09-28T15:48:25Z"
+          },
+          {
+            "id": 134834,
+            "name": "2.8.2",
+            "release_date": "2020-08-21T00:19:48Z"
+          },
+          {
+            "id": 128737,
+            "name": "2.8.1",
+            "release_date": "2020-06-10T03:05:01Z"
+          },
+          {
+            "id": 127578,
+            "name": "2.8.0",
+            "release_date": "2020-05-24T20:58:08Z"
+          },
+          {
+            "id": 127022,
+            "name": "2.7.1",
+            "release_date": "2020-05-20T13:54:00Z"
+          },
+          {
+            "id": 120978,
+            "name": "2.7.0",
+            "release_date": "2020-03-06T16:00:50Z"
+          },
+          {
+            "id": 119734,
+            "name": "2.6.2",
+            "release_date": "2020-02-28T15:34:17Z"
+          },
+          {
+            "id": 117984,
+            "name": "2.6.1",
+            "release_date": "2020-02-20T22:50:26Z"
+          },
+          {
+            "id": 111494,
+            "name": "2.6.0",
+            "release_date": "2019-12-16T16:34:30Z"
+          },
+          {
+            "id": 111212,
+            "name": "2.5.4",
+            "release_date": "2019-12-11T15:30:23Z"
+          },
+          {
+            "id": 102332,
+            "name": "2.5.3",
+            "release_date": "2019-08-23T17:38:55Z"
+          },
+          {
+            "id": 79920,
+            "name": "2.5.2",
+            "release_date": "2018-11-13T03:28:36Z"
+          },
+          {
+            "id": 71508,
+            "name": "2.5.1",
+            "release_date": "2018-07-25T19:56:46Z"
+          },
+          {
+            "id": 26866,
+            "name": "1.0.0",
+            "release_date": "2017-02-24T04:25:06Z"
+          },
+          {
+            "id": 31434,
+            "name": "2.0.0",
+            "release_date": "2017-05-10T03:24:02Z"
+          },
+          {
+            "id": 32548,
+            "name": "2.0.3",
+            "release_date": "2017-05-30T22:11:58Z"
+          },
+          {
+            "id": 32160,
+            "name": "2.0.2",
+            "release_date": "2017-05-24T00:28:47Z"
+          },
+          {
+            "id": 31435,
+            "name": "2.0.1",
+            "release_date": "2017-05-10T03:29:25Z"
+          },
+          {
+            "id": 34344,
+            "name": "2.0.5",
+            "release_date": "2017-06-29T14:41:20Z"
+          },
+          {
+            "id": 31109,
+            "name": "1.2.0",
+            "release_date": "2017-05-03T16:11:16Z"
+          },
+          {
+            "id": 36053,
+            "name": "2.1.0",
+            "release_date": "2017-08-01T03:00:11Z"
+          },
+          {
+            "id": 26897,
+            "name": "1.1.0",
+            "release_date": "2017-02-25T14:48:30Z"
+          },
+          {
+            "id": 32550,
+            "name": "2.0.4",
+            "release_date": "2017-05-31T04:03:14Z"
+          },
+          {
+            "id": 59207,
+            "name": "2.2.0",
+            "release_date": "2018-05-02T02:36:08Z"
+          },
+          {
+            "id": 68136,
+            "name": "2.4.3",
+            "release_date": "2018-06-21T00:38:01Z"
+          },
+          {
+            "id": 68135,
+            "name": "2.5.0",
+            "release_date": "2018-06-21T00:38:40Z"
+          },
+          {
+            "id": 59286,
+            "name": "2.3.0",
+            "release_date": "2018-05-02T19:43:02Z"
+          },
+          {
+            "id": 59482,
+            "name": "2.4.0",
+            "release_date": "2018-05-06T22:47:34Z"
+          },
+          {
+            "id": 59826,
+            "name": "2.4.1",
+            "release_date": "2018-05-15T16:12:19Z"
+          },
+          {
+            "id": 63269,
+            "name": "2.4.2",
+            "release_date": "2018-05-18T21:58:50Z"
+          }
+        ],
+        "videos": []
+      },
+      "created": "2017-02-24T04:13:02.804883Z",
+      "modified": "2020-12-27T15:25:30.798507Z",
+      "name": "docker",
+      "role_type": "ANS",
+      "is_valid": true,
+      "min_ansible_version": "2.4",
+      "license": "license (BSD, MIT)",
+      "company": "Midwestern Mac, LLC",
+      "description": "Docker for Linux.",
+      "travis_status_url": "",
+      "download_count": 7272261,
+      "imported": "2020-12-27T10:25:30.791271-05:00",
+      "active": true,
+      "github_user": "geerlingguy",
+      "github_repo": "ansible-role-docker",
+      "github_branch": "master",
+      "stargazers_count": 781,
+      "forks_count": 499,
+      "open_issues_count": 20,
+      "commit": "90ede9217869e5205b37426a8654c02fb86b2465",
+      "commit_message": "Merge pull request #249 from geerlingguy/docker-edge-to-nightly\n\nFixes #239: Switch from 'Edge' to 'Nightly' option since Edge is not a thing now.",
+      "commit_url": "https://api.github.com/repos/geerlingguy/ansible-role-docker/git/commits/90ede9217869e5205b37426a8654c02fb86b2465",
+      "issue_tracker_url": "https://github.com/geerlingguy/ansible-role-docker/issues"
+    }
+  ]
+}
