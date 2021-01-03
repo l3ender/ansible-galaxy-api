@@ -12,9 +12,7 @@ class MyHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
                 return index
         return path
 
-PORT = 8000
-
-with socketserver.TCPServer(("", PORT), MyHTTPRequestHandler) as httpd:
-    print("Server started at http://localhost:" + str(PORT))
+with socketserver.TCPServer(("", 8000), MyHTTPRequestHandler) as httpd:
+    print("Server started at http://localhost:8000")
     httpd.serve_forever()
 
