@@ -2,11 +2,10 @@
 
 This repo is used for simulating/mocking HTTP responses from an Ansible Galaxy API.
 
-### Setup
+### Usage
 
-Run the following to set up the environment:
+Start the mock server by running the following. No python/pip installs required.
+
 ```bash
-python3 -m venv venv
-. venv/bin/activate
-pip3 install -r requirements.txt
+python3 main.py
 ```
