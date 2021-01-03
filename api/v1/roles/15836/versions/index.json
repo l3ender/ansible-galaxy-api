@@ -16,7 +16,7 @@
       "version": "2.1.0",
       "commit_date": "2017-07-31T23:00:11-04:00",
       "commit_sha": null,
-      "download_url": "http://localhost:8081/repository/ansible/download/role/geerlingguy/ansible-role-docker/archive/2.1.0.tar.gz",
+      "download_url": "http://localhost:8000/artifact/ansible-role-docker-3.0.0.tar.gz",
       "active": null
     },
     {
@@ -30,7 +30,7 @@
       "version": "2.9.0",
       "commit_date": "2020-09-28T11:48:25-04:00",
       "commit_sha": "f6f6cf55fb2aed91a79029a07a9c7f540c8d7fe7",
-      "download_url": "http://localhost:8081/repository/ansible/download/role/geerlingguy/ansible-role-docker/archive/2.9.0.tar.gz",
+      "download_url": "http://localhost:8000/artifact/ansible-role-docker-3.0.0.tar.gz",
       "active": null
     },
     {
@@ -44,7 +44,7 @@
       "version": "1.0.0",
       "commit_date": "2017-02-23T23:25:06-05:00",
       "commit_sha": null,
-      "download_url": "http://localhost:8081/repository/ansible/download/role/geerlingguy/ansible-role-docker/archive/1.0.0.tar.gz",
+      "download_url": "http://localhost:8000/artifact/ansible-role-docker-3.0.0.tar.gz",
       "active": null
     },
     {
@@ -58,7 +58,7 @@
       "version": "2.0.0",
       "commit_date": "2017-05-09T23:24:02-04:00",
       "commit_sha": null,
-      "download_url": "http://localhost:8081/repository/ansible/download/role/geerlingguy/ansible-role-docker/archive/2.0.0.tar.gz",
+      "download_url": "http://localhost:8000/artifact/ansible-role-docker-3.0.0.tar.gz",
       "active": null
     },
     {
@@ -72,7 +72,7 @@
       "version": "2.8.2",
       "commit_date": "2020-08-20T20:19:48-04:00",
       "commit_sha": "5d6af00f205960514f747db1ac7e6980ac31846c",
-      "download_url": "http://localhost:8081/repository/ansible/download/role/geerlingguy/ansible-role-docker/archive/2.8.2.tar.gz",
+      "download_url": "http://localhost:8000/artifact/ansible-role-docker-3.0.0.tar.gz",
       "active": null
     },
     {
@@ -86,7 +86,7 @@
       "version": "2.2.0",
       "commit_date": "2018-05-01T22:36:08-04:00",
       "commit_sha": null,
-      "download_url": "http://localhost:8081/repository/ansible/download/role/geerlingguy/ansible-role-docker/archive/2.2.0.tar.gz",
+      "download_url": "http://localhost:8000/artifact/ansible-role-docker-3.0.0.tar.gz",
       "active": null
     },
     {
@@ -100,7 +100,7 @@
       "version": "2.5.1",
       "commit_date": "2018-07-25T15:56:46-04:00",
       "commit_sha": "5f891708092c3c94373d236ac0fd48be846e0d83",
-      "download_url": "http://localhost:8081/repository/ansible/download/role/geerlingguy/ansible-role-docker/archive/2.5.1.tar.gz",
+      "download_url": "http://localhost:8000/artifact/ansible-role-docker-3.0.0.tar.gz",
       "active": null
     },
     {
@@ -114,7 +114,7 @@
       "version": "1.2.0",
       "commit_date": "2017-05-03T12:11:16-04:00",
       "commit_sha": null,
-      "download_url": "http://localhost:8081/repository/ansible/download/role/geerlingguy/ansible-role-docker/archive/1.2.0.tar.gz",
+      "download_url": "http://localhost:8000/artifact/ansible-role-docker-3.0.0.tar.gz",
       "active": null
     },
     {
@@ -128,7 +128,7 @@
       "version": "2.0.1",
       "commit_date": "2017-05-09T23:29:25-04:00",
       "commit_sha": null,
-      "download_url": "http://localhost:8081/repository/ansible/download/role/geerlingguy/ansible-role-docker/archive/2.0.1.tar.gz",
+      "download_url": "http://localhost:8000/artifact/ansible-role-docker-3.0.0.tar.gz",
       "active": null
     },
     {
@@ -142,7 +142,7 @@
       "version": "2.4.0",
       "commit_date": "2018-05-06T18:47:34-04:00",
       "commit_sha": null,
-      "download_url": "http://localhost:8081/repository/ansible/download/role/geerlingguy/ansible-role-docker/archive/2.4.0.tar.gz",
+      "download_url": "http://localhost:8000/artifact/ansible-role-docker-3.0.0.tar.gz",
       "active": null
     },
     {
@@ -156,7 +156,7 @@
       "version": "2.4.1",
       "commit_date": "2018-05-15T12:12:19-04:00",
       "commit_sha": null,
-      "download_url": "http://localhost:8081/repository/ansible/download/role/geerlingguy/ansible-role-docker/archive/2.4.1.tar.gz",
+      "download_url": "http://localhost:8000/artifact/ansible-role-docker-3.0.0.tar.gz",
       "active": null
     },
     {
@@ -170,7 +170,7 @@
       "version": "2.8.0",
       "commit_date": "2020-05-24T16:58:08-04:00",
       "commit_sha": "ec3d7c70767e03741335a128d935f638c202447d",
-      "download_url": "http://localhost:8081/repository/ansible/download/role/geerlingguy/ansible-role-docker/archive/2.8.0.tar.gz",
+      "download_url": "http://localhost:8000/artifact/ansible-role-docker-3.0.0.tar.gz",
       "active": null
     },
     {
@@ -184,7 +184,7 @@
       "version": "2.0.3",
       "commit_date": "2017-05-30T18:11:58-04:00",
       "commit_sha": null,
-      "download_url": "http://localhost:8081/repository/ansible/download/role/geerlingguy/ansible-role-docker/archive/2.0.3.tar.gz",
+      "download_url": "http://localhost:8000/artifact/ansible-role-docker-3.0.0.tar.gz",
       "active": null
     },
     {
@@ -198,7 +198,7 @@
       "version": "2.0.4",
       "commit_date": "2017-05-31T00:03:14-04:00",
       "commit_sha": null,
-      "download_url": "http://localhost:8081/repository/ansible/download/role/geerlingguy/ansible-role-docker/archive/2.0.4.tar.gz",
+      "download_url": "http://localhost:8000/artifact/ansible-role-docker-3.0.0.tar.gz",
       "active": null
     },
     {
@@ -212,7 +212,7 @@
       "version": "2.6.1",
       "commit_date": "2020-02-20T17:50:26-05:00",
       "commit_sha": "a19ed5612847c94c3fe70905b379bbf970f3d6e4",
-      "download_url": "http://localhost:8081/repository/ansible/download/role/geerlingguy/ansible-role-docker/archive/2.6.1.tar.gz",
+      "download_url": "http://localhost:8000/artifact/ansible-role-docker-3.0.0.tar.gz",
       "active": null
     },
     {
@@ -226,7 +226,7 @@
       "version": "2.6.0",
       "commit_date": "2019-12-16T11:34:30-05:00",
       "commit_sha": "c59e9df5610406f14cd78a2770e35ab74f6f0b38",
-      "download_url": "http://localhost:8081/repository/ansible/download/role/geerlingguy/ansible-role-docker/archive/2.6.0.tar.gz",
+      "download_url": "http://localhost:8000/artifact/ansible-role-docker-3.0.0.tar.gz",
       "active": null
     },
     {
@@ -240,7 +240,7 @@
       "version": "2.5.2",
       "commit_date": "2018-11-12T22:28:36-05:00",
       "commit_sha": "fa1a56824eb6caf18872a01095094aa2702a5fc0",
-      "download_url": "http://localhost:8081/repository/ansible/download/role/geerlingguy/ansible-role-docker/archive/2.5.2.tar.gz",
+      "download_url": "http://localhost:8000/artifact/ansible-role-docker-3.0.0.tar.gz",
       "active": null
     },
     {
@@ -254,7 +254,7 @@
       "version": "2.7.1",
       "commit_date": "2020-05-20T09:54:00-04:00",
       "commit_sha": "3877e370e477cfdddab481eccac1fa91d892a51b",
-      "download_url": "http://localhost:8081/repository/ansible/download/role/geerlingguy/ansible-role-docker/archive/2.7.1.tar.gz",
+      "download_url": "http://localhost:8000/artifact/ansible-role-docker-3.0.0.tar.gz",
       "active": null
     },
     {
@@ -268,7 +268,7 @@
       "version": "3.0.0",
       "commit_date": "2020-12-27T10:24:32-05:00",
       "commit_sha": "90ede9217869e5205b37426a8654c02fb86b2465",
-      "download_url": "http://localhost:8081/repository/ansible/download/role/geerlingguy/ansible-role-docker/archive/3.0.0.tar.gz",
+      "download_url": "http://localhost:8000/artifact/ansible-role-docker-3.0.0.tar.gz",
       "active": null
     },
     {
@@ -282,7 +282,7 @@
       "version": "2.5.4",
       "commit_date": "2019-12-11T10:30:23-05:00",
       "commit_sha": "e64effa78843f248cda39fb1b633c042f891f7bd",
-      "download_url": "http://localhost:8081/repository/ansible/download/role/geerlingguy/ansible-role-docker/archive/2.5.4.tar.gz",
+      "download_url": "http://localhost:8000/artifact/ansible-role-docker-3.0.0.tar.gz",
       "active": null
     },
     {
@@ -296,7 +296,7 @@
       "version": "2.5.0",
       "commit_date": "2018-06-20T20:38:40-04:00",
       "commit_sha": null,
-      "download_url": "http://localhost:8081/repository/ansible/download/role/geerlingguy/ansible-role-docker/archive/2.5.0.tar.gz",
+      "download_url": "http://localhost:8000/artifact/ansible-role-docker-3.0.0.tar.gz",
       "active": null
     },
     {
@@ -310,7 +310,7 @@
       "version": "2.6.2",
       "commit_date": "2020-02-28T10:34:17-05:00",
       "commit_sha": "c8fff5967498178d29262737e32afc3aa000e228",
-      "download_url": "http://localhost:8081/repository/ansible/download/role/geerlingguy/ansible-role-docker/archive/2.6.2.tar.gz",
+      "download_url": "http://localhost:8000/artifact/ansible-role-docker-3.0.0.tar.gz",
       "active": null
     },
     {
@@ -324,7 +324,7 @@
       "version": "2.5.3",
       "commit_date": "2019-08-23T13:38:55-04:00",
       "commit_sha": "416c0c9a06e4a62e6fc3ee2bdedec465599b9beb",
-      "download_url": "http://localhost:8081/repository/ansible/download/role/geerlingguy/ansible-role-docker/archive/2.5.3.tar.gz",
+      "download_url": "http://localhost:8000/artifact/ansible-role-docker-3.0.0.tar.gz",
       "active": null
     },
     {
@@ -338,7 +338,7 @@
       "version": "2.4.3",
       "commit_date": "2018-06-20T20:38:01-04:00",
       "commit_sha": null,
-      "download_url": "http://localhost:8081/repository/ansible/download/role/geerlingguy/ansible-role-docker/archive/2.4.3.tar.gz",
+      "download_url": "http://localhost:8000/artifact/ansible-role-docker-3.0.0.tar.gz",
       "active": null
     },
     {
@@ -352,7 +352,7 @@
       "version": "1.1.0",
       "commit_date": "2017-02-25T09:48:30-05:00",
       "commit_sha": null,
-      "download_url": "http://localhost:8081/repository/ansible/download/role/geerlingguy/ansible-role-docker/archive/1.1.0.tar.gz",
+      "download_url": "http://localhost:8000/artifact/ansible-role-docker-3.0.0.tar.gz",
       "active": null
     },
     {
@@ -366,7 +366,7 @@
       "version": "2.0.5",
       "commit_date": "2017-06-29T10:41:20-04:00",
       "commit_sha": null,
-      "download_url": "http://localhost:8081/repository/ansible/download/role/geerlingguy/ansible-role-docker/archive/2.0.5.tar.gz",
+      "download_url": "http://localhost:8000/artifact/ansible-role-docker-3.0.0.tar.gz",
       "active": null
     },
     {
@@ -380,7 +380,7 @@
       "version": "2.3.0",
       "commit_date": "2018-05-02T15:43:02-04:00",
       "commit_sha": null,
-      "download_url": "http://localhost:8081/repository/ansible/download/role/geerlingguy/ansible-role-docker/archive/2.3.0.tar.gz",
+      "download_url": "http://localhost:8000/artifact/ansible-role-docker-3.0.0.tar.gz",
       "active": null
     },
     {
@@ -394,7 +394,7 @@
       "version": "2.4.2",
       "commit_date": "2018-05-18T17:58:50-04:00",
       "commit_sha": null,
-      "download_url": "http://localhost:8081/repository/ansible/download/role/geerlingguy/ansible-role-docker/archive/2.4.2.tar.gz",
+      "download_url": "http://localhost:8000/artifact/ansible-role-docker-3.0.0.tar.gz",
       "active": null
     },
     {
@@ -408,7 +408,7 @@
       "version": "2.8.1",
       "commit_date": "2020-06-09T23:05:01-04:00",
       "commit_sha": "fa52c5f28bfbd1896a94a94ecf81ce9ef0ec2890",
-      "download_url": "http://localhost:8081/repository/ansible/download/role/geerlingguy/ansible-role-docker/archive/2.8.1.tar.gz",
+      "download_url": "http://localhost:8000/artifact/ansible-role-docker-3.0.0.tar.gz",
       "active": null
     },
     {
@@ -422,7 +422,7 @@
       "version": "2.0.2",
       "commit_date": "2017-05-23T20:28:47-04:00",
       "commit_sha": null,
-      "download_url": "http://localhost:8081/repository/ansible/download/role/geerlingguy/ansible-role-docker/archive/2.0.2.tar.gz",
+      "download_url": "http://localhost:8000/artifact/ansible-role-docker-3.0.0.tar.gz",
       "active": null
     },
     {
@@ -436,7 +436,7 @@
       "version": "2.7.0",
       "commit_date": "2020-03-06T11:00:50-05:00",
       "commit_sha": "cd50bf980bf1aa752699613490b035419c59a197",
-      "download_url": "http://localhost:8081/repository/ansible/download/role/geerlingguy/ansible-role-docker/archive/2.7.0.tar.gz",
+      "download_url": "http://localhost:8000/artifact/ansible-role-docker-3.0.0.tar.gz",
       "active": null
     }
   ]
